@@ -10,5 +10,8 @@ assignees: ''
 ## Describe the bug
 A clear and concise description of what the bug is.
 
+## Cause
+A clear and concise description of the cause of the bug.
+
 ## Solution
 A clear and concise description of the solution to the bug.
