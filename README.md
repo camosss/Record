@@ -2,6 +2,8 @@
 ## Concurrency
 - [Task (작업)](https://github.com/camosss/Record/issues/3)
 - [async / await](https://github.com/camosss/Record/issues/4)
+- [신규 URLSession API](https://github.com/camosss/Record/issues/5)
+
 
 <br>
 
