@@ -3,6 +3,7 @@
 - [Task (작업)](https://github.com/camosss/Record/issues/3)
 - [async / await](https://github.com/camosss/Record/issues/4)
 - [신규 URLSession API](https://github.com/camosss/Record/issues/5)
+- [Concurrency 방식으로의 전환](https://github.com/camosss/Record/issues/6)
 
 
 <br>
