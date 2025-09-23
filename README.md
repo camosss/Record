@@ -6,6 +6,7 @@
 - [Concurrency 방식으로의 전환](https://github.com/camosss/Record/issues/6)
 - [Structured Concurrency (구조적 동시성)](https://github.com/camosss/Record/issues/7)
 - [작업 취소](https://github.com/camosss/Record/issues/8)
+- [TaskGroup 활용과 Task-Local 변수](https://github.com/camosss/Record/issues/9)
 
 <br>
 
