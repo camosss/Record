@@ -1,9 +1,9 @@
 
-## Concurrency
+## Swift Concurrency
 - [Task (작업)](https://github.com/camosss/Record/issues/3)
 - [async / await](https://github.com/camosss/Record/issues/4)
 - [신규 URLSession API](https://github.com/camosss/Record/issues/5)
-- [Concurrency 방식으로의 전환](https://github.com/camosss/Record/issues/6)
+- [Swift Concurrency 방식으로의 전환](https://github.com/camosss/Record/issues/6)
 - [Structured Concurrency (구조적 동시성)](https://github.com/camosss/Record/issues/7)
 - [작업 취소](https://github.com/camosss/Record/issues/8)
 - [TaskGroup 활용과 Task-Local 변수](https://github.com/camosss/Record/issues/9)
